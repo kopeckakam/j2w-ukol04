@@ -52,6 +52,7 @@
             <div class="col-md-1 align-self-end">
                 <button type="submit" class="btn btn-primary"><i role="textbox" aria-label="Append"></i>Přidat</button>
             </div>
+        </div>
     </form>
 </div>
 </body>
