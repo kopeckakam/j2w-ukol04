@@ -107,3 +107,22 @@ a:hover .vizitka {
     margin: 1em;
     box-shadow: 5px 5px 10px black;
 }
+
+.nova {
+    align-self: center;
+    margin-left: 50em;
+    margin-right: 50em;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-label {
+    color: white;
+}
+
+.form-title {
+    color: white;
+}
