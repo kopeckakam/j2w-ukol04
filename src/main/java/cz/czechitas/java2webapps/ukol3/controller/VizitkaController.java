@@ -36,8 +36,7 @@ public class VizitkaController {
 
     @GetMapping("/nova")
     public ModelAndView detail() {
-        ModelAndView result = new ModelAndView("nova");
-        return result;
+        return new ModelAndView("nova");
     }
 
     @PostMapping("/nova")
